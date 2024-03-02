@@ -1,0 +1,22 @@
+{
+  "name": "alura-projeto-node",
+  "version": "1.0.0",
+  "description": "Teste novo projeto node",
+  "main": "index.js",
+  "scripts": {
+    "test": "console.log('teste')"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amusolino/alura-projeto-node.git"
+  },
+  "keywords": [
+    "xpto"
+  ],
+  "author": "Andre",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amusolino/alura-projeto-node/issues"
+  },
+  "homepage": "https://github.com/amusolino/alura-projeto-node#readme"
+}
